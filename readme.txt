@@ -1,2 +1,2 @@
-Git is a local version control system.
+Git is a local hello version control system.
 Git is free software.
